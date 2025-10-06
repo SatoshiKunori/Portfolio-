@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+
+body {
+  background-color: #f0f0f0;
+  color: #000;
+  margin: 0 auto;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+
+/* ヘッダー */
+
+nav a {
+  color: inherit;
+}
+
+#header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+#nav-pc ul {
+    display: flex;
+}
+
+#nav-pc li {
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+h1 {
+    margin-left: 400px;
+}
+
+.logo img {
+    height: 80px;
+}
+
+.index {
+    background-color: black;
+    color: #f0f0f0;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    padding-top: 15px;
+}
+
+#contact-page {
+    background-color: #fff;
+    width: 840px;
+    height: auto;
+    margin: 0 auto;
+}
+
+input,
+textarea {
+  border: 1px solid #ccc;   
+  padding: 0.5em;           
+  border-radius: 4px;       
+  font-size: 1rem;
+  background-color: #fff;   
+  box-sizing: border-box;   
+}
+
+.contacts-textarea {
+    width: 840px;
+}
+
+
+.contact-span {
+    color: red;
+}
+
+.soushin-btn {
+    color: #fff;
+    background-color: rgb(175, 133, 236);
+    width: 150px;
+    height: 60px;
+    font-size: 25px;
+    margin: 20px 0 20px 20px;
+}
+

@@ -1,0 +1,10 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" 
+        font-size="72" font-family="Arial, Helvetica, sans-serif" fill="black">
+    KNR
+  </text>
+  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" 
+        font-size="36" font-family="Arial, Helvetica, sans-serif" fill="black">
+    COMPANY
+  </text>
+</svg>
